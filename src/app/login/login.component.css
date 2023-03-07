@@ -1,0 +1,10 @@
+.login{
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  width: 300px;
+}
+form{
+  width: 100%;
+}
